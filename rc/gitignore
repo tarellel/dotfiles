@@ -1,0 +1,34 @@
+##### Good Sample > https://github.com/cypher/dotfiles/blob/master/gitignore
+
+##### Databases and Logs #####
+*.log
+/log/*.log
+*.sql
+*.sqlite
+
+##### OS Files #####
+*/.DS_Store
+.DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+._*
+.Trashes
+
+##### Application Specifiec #####
+*.sublime-project
+*.sublime-workspace
+
+
+##### Misc #####
+.powrd
+.tmproj
+*.sublime-workspace
+*.cache
+*.db
+*.pid
+.bundle
+.rvmrc
+config/database.yml
+tmp/**/*
+.sass-cache/

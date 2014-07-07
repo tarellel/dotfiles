@@ -1,0 +1,29 @@
+[user]
+  name = Brandon Hicks
+  email = tarellel@gmail.com
+
+[core]
+  excludefiles = ~/.gitignore
+
+
+
+[color]
+  branch = auto
+  diff = auto
+  interactive = auto
+  status = auto
+  ui = auto
+
+# aliases to use with git
+[alias]
+  # A log of commits indicating where various branches are currently pointing.
+  lga = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset' --abbrev-commit --date=relative --branches --remotes
+
+# GitHub credentials
+[github]
+  user = $github-username
+  token = $github-token
+
+[filter "media"]
+  clean = git-media-clean %f
+  smudge = git-media-smudge %f

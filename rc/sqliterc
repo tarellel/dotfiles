@@ -1,0 +1,6 @@
+.headers on
+.mode column
+.header ON
+.nullvalue NULL
+.separator "|"
+.width 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15 15

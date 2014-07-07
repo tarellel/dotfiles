@@ -1,0 +1,17 @@
+#
+# Use Pry everywhere
+# source: https://github.com/lucapette/dotfiles/blob/master/irbrc
+#
+#require 'rubygems'
+#require 'pry'
+#Pry.start
+#exit
+
+# source: http://filipemoreira.com/blog/2012/03/09/using-pry-with-rails
+begin
+  require 'pry'
+  Pry.start
+  exit
+rescue LoadError => e
+  warn "=> Unable to load pry"
+end

@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+source ~/.extras/aliases.sh
+source ~/.extras/base_config.sh
+source ~/.extras/functions.sh
+source ~/.extras/variables.sh
