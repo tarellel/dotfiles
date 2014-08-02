@@ -16,6 +16,7 @@
 
 
 ### Must have Apps
+* Download/Install [Alfred](http://www.alfredapp.com/)
 * Download/Install [Chrome](https://www.google.com/chrome)
 * Download/Install [iTerm2](http://www.iterm2.com/)
 * Download/Install [Postgres.app](http://postgresapp.com/)
@@ -25,6 +26,12 @@
 * Download/Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Download/Install [Vagrant](http://www.vagrantup.com/downloads.html)
 
+
+### Apps that make life easier
+* Download/Install [Flux](https://justgetflux.com/)
+* Download/Install [ImageOptim](https://imageoptim.com/)
+* Download/Install [Caffeine](https://itunes.apple.com/us/app/caffeine/id411246225?mt=12)
+* Download/Install [FlyCut (Clipboard Manager)](https://itunes.apple.com/us/app/flycut-clipboard-manager/id442160987?mt=12)
 
 ### Homebrew
 
