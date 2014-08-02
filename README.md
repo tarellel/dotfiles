@@ -11,9 +11,19 @@
 
 * [Xcode](https://developer.apple.com/xcode/) (download from App store)
 * Command Line Tools for [Xcode](https://developer.apple.com/xcode/downloads/) (run `xcode-select --install` to install)
-* [iTerm2](http://www.iterm2.com/)
 * [Homebrew](http://mxcl.github.io/homebrew/)
 * [oh-my-zshrc](https://github.com/robbyrussell/oh-my-zsh)
+
+
+### Must have Apps
+* Download/Install [Chrome](https://www.google.com/chrome)
+* Download/Install [iTerm2](http://www.iterm2.com/)
+* Download/Install [Postgres.app](http://postgresapp.com/)
+* Download/Install [Sublime Text](http://www.sublimetext.com/)
+* Download/Install [Atom.io](https://atom.io/) [ currently prefer over sublime]
+
+* Download/Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* Download/Install [Vagrant](http://www.vagrantup.com/downloads.html)
 
 
 ### Homebrew
@@ -38,10 +48,10 @@
     rvm install 2.1.1
     rvm --default use 2.1.1
 
-### Postgres
-[Postgres.app](http://postgresapp.com/)
-
-
+### Database
+* [Postgres.app](http://postgresapp.com/)
+* [Lita - SQlite](http://www.dehats.com/drupal/?q=node/58)
+* [Induction - Postgres, MySQL, SQlite Database Client](http://inductionapp.com/)
 
 ##### Sample dotfiles
 * [iain](https://github.com/iain/dotfiles)
