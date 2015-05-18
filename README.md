@@ -25,7 +25,9 @@
 
 * Download/Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Download/Install [Vagrant](http://www.vagrantup.com/downloads.html)
+* Download/install [Ansible](http://docs.ansible.com/intro_installation.html#latest-releases-via-homebrew-mac-osx)
 
+    brew install ansible
 
 ### Apps that make life easier
 * Download/Install [Flux](https://justgetflux.com/)
@@ -49,6 +51,7 @@
     freetype	libksba		mcrypt		readline
     gdbm		libpng		mhash		redis
     gettext		libtiff		node		scons
+    optipng jpegoptim
 
 ### Ruby
     \curl -sSL https://get.rvm.io | bash -s stable
