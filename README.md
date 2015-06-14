@@ -57,6 +57,9 @@
     \curl -sSL https://get.rvm.io | bash -s stable
     rvm install 2.1.1
     rvm --default use 2.1.1
+    
+if having issues with RVM/readline with pry and irbrc checkout
+[Add-Readline-support-to-Ruby-on-Mac-OS-X](https://github.com/guard/guard/wiki/Add-Readline-support-to-Ruby-on-Mac-OS-X)
 
 ### Database
 * [Postgres.app](http://postgresapp.com/)
