@@ -26,6 +26,7 @@
 * Download/Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * Download/Install [Vagrant](http://www.vagrantup.com/downloads.html)
 * Download/install [Ansible](http://docs.ansible.com/intro_installation.html#latest-releases-via-homebrew-mac-osx)
+* Download/Install [gpgtools](https://gpgtools.org/)
 
     brew install ansible
 
