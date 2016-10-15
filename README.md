@@ -54,6 +54,9 @@
     gettext		libtiff		node		scons
     optipng jpegoptim
 
+##### [Cask](https://caskroom.github.io/)
+    brew install mojibar
+
 ### Ruby
     \curl -sSL https://get.rvm.io | bash -s stable
     rvm install 2.1.1
